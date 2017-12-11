@@ -1,0 +1,20 @@
+p, li {
+  font-family: "Courier New", serif;
+  font-size: 10px;
+}
+
+#title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  margin-top:20px;
+}
+
+#name {
+  font-family: 'Monterrat', sans-serif;
+  font-size: 12px;
+  margin-top: -10px;
+}
+
+#code {
+  margin-top: -10px;
+}
